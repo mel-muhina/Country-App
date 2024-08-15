@@ -1,0 +1,27 @@
+.homePage-container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5%;
+}
+
+.homePage-container > h1 {
+    font-size: 2rem;
+}
+
+.homePage-container > h2 {
+    font-size: 1.4rem;
+}
+
+.homepage-list {
+    font-size: 1.2rem;
+    list-style: none;
+    padding: 1%;
+}
+
+
+.homepage-list > li{
+    padding: 0.2rem;
+}
+
+.intro-img {
+    width: 20%;
+}
